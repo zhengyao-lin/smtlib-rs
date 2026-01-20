@@ -1,3 +1,5 @@
+#![allow(unused_assignments)]
+
 use itertools::Itertools;
 
 use crate::{lexicon::SmtlibParse, storage::Storage};
